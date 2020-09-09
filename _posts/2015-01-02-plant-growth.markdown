@@ -3,14 +3,14 @@ layout: post
 title:  "Plant Growth"
 date:   2015-01-02
 sources: [PHB.266, SRD.169]
-tags: [bard, cleric (nature), druid, paladin (ancients), ranger, warlock (fae), level3, transmutation]
+tags: [cleric (nature), druid, warlock (fae), level8, transmutation]
 ---
 
-**3rd-level transmutation**
+**8th-level transmutation**
 
-**Casting Time**: 1 action or 8 hours
+**Casting Time**: 1 minute or 8 hours
 
-**Range**: 150 feet
+**Range**: self
 
 **Components**: V, S
 
@@ -18,7 +18,7 @@ tags: [bard, cleric (nature), druid, paladin (ancients), ranger, warlock (fae), 
 
 This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.
 
-If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves.
+If you cast this spell over 1 minute, all normal plants in a 250-foot radius of you become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves.
 
 You can exclude one or more areas of any size within the spell’s area from being affected.
 
