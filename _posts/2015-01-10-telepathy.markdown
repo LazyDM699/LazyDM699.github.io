@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Telepathy"
+title:  "Telepathic Link"
 date:   2015-01-10
 sources: [PHB.281]
 tags:   [wizard, level8, evocation]
