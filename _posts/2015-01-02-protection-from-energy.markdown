@@ -3,17 +3,19 @@ layout: post
 title:  "Protection from Energy"
 date:   2015-01-02
 sources: [PHB.270, SRD.173]
-tags: [artificer, cleric, druid, paladin (ancients), paladin (vengeance), ranger, sorcerer, wizard, level3, abjuration]
+tags: [artificer, cleric, paladin (ancients), paladin (vengeance), level3, abjuration]
 ---
 
-**3rd-level abjuration**
+**2nd-level abjuration**
 
 **Casting Time**: 1 action
 
-**Range**: Touch
+**Range**: 5 ft
 
 **Components**: V, S
 
-**Duration**: Concentration, up to 1 minute
+**Duration**: 1 hour
 
-For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
+For the duration, 3 willing creature within range gain resistance to one damage type of your choice: cold, fire, or lightning.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the number of creatures effected increases by 1.
