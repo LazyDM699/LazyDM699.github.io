@@ -3,10 +3,10 @@ layout: post
 title:  "Control Weather"
 date:   2015-01-10
 sources: [PHB.228, SRD.131]
-tags:   [cleric, druid, wizard, level9, transmutation]
+tags:   [cleric, druid, wizard, level8, transmutation]
 --
 
-**9th-level transmutation**
+**8th-level transmutation**
 
 **Casting Time**: 10 minutes
 
