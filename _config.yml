@@ -3,7 +3,7 @@ title: The Grimoire
 author: Saph, thebombzen
 description:
   A searchable D&D 5e spell list, sorted by class and level.
-baseurl: /lazydm699.github.io/ # the subpath of your site, e.g. /blog/
+baseurl: /lazydm699.github.io # the subpath of your site, e.g. /blog/
 url: lazydm699.github.io # the base hostname & protocol for your site
 source-url: https://github.com/LazyDM699/lazydm699.github.io/
 permalink: "/:categories/:title"
