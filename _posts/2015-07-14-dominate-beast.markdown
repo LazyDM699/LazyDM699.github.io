@@ -3,14 +3,14 @@ layout: post
 title: "Dominate Beast"
 date: 2015-07-14
 sources: [PHB.234, SRD.137]
-tags: [cleric (nature), druid, paladin (conquest), warlock (fae), warlock (great old one), sorcerer, level4, enchantment]
+tags: [cleric (nature), druid, paladin (conquest), warlock (fae), warlock (great old one), sorcerer, level5, enchantment]
 ---
 
-**4th-level enchantment**
+**5th-level enchantment**
 
 **Casting Time**: 1 action
 
-**Range**: 60 feet
+**Range**: Touch
 
 **Components**: V, S
 
@@ -22,4 +22,4 @@ While the beast is charmed, you have a telepathic link with it as long as the tw
 
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well. Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
-**At Higher Levels.** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours.
+**At Higher Levels.** When you cast this spell with a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.

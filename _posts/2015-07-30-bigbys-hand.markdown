@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Bigby’s Hand"
+title: "Greater Telekenesis"
 date: 2015-07-30
 sources: [PHB.218]
-tags: [artificer, wizard, level5, evocation]
+tags: [warlock, wizard, level5, evocation]
 ---
 
 **5th-level evocation**
@@ -12,7 +12,7 @@ tags: [artificer, wizard, level5, evocation]
 
 **Range**: 120 feet
 
-**Components**: V, S, M (an eggshell and a snakeskin glove)
+**Components**: V, S
 
 **Duration**: Concentration, up to 1 minute
 
