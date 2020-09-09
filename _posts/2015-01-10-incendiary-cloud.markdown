@@ -10,13 +10,13 @@ tags:   [sorcerer, wizard, level8, conjuration]
 
 **Casting Time**: 1 action
 
-**Range**: 150 feet
+**Range**: Self
 
 **Components**: V, S
 
 **Duration**: Concentration, up to 1 minute
 
-A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+A swirling cloud of smoke shot through with white-hot embers appears from your outsretched hand in a 20-foot-cube. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 
