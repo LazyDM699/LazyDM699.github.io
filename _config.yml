@@ -6,7 +6,7 @@ description:
 baseurl: /lazydm699.github.io # the subpath of your site, e.g. /blog/
 url: lazydm699.github.io # the base hostname & protocol for your site
 source-url: https://github.com/LazyDM699/lazydm699.github.io/
-permalink: "/:categories/:title"
+permalink: /:categories/:title
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 # Build settings
