@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mage Hand"
+title:  "Minor Telekenesis"
 date:   2014-08-24
 sources: [PHB.256, SRD.160]
 tags: [artificer, bard, sorcerer, warlock, wizard, cantrip, conjuration]

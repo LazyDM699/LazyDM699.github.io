@@ -3,10 +3,10 @@ layout: post
 title:  "Confusion"
 date:   2015-01-05
 sources: [PHB.224, SRD.127]
-tags: [bard, cleric (knowledge), druid, paladin (oathbreaker), sorcerer, wizard, level4, enchantment]
+tags: [bard, cleric (knowledge), warlock, sorcerer, wizard, level7, enchantment]
 ---
 
-**4th-level enchantment**
+**7th-level enchantment**
 
 **Casting Time**: 1 action
 

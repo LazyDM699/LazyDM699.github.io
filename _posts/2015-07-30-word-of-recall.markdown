@@ -3,12 +3,12 @@ layout: post
 title: "Word of Recall"
 date: 2015-07-30
 sources: [PHB.289, SRD.193]
-tags: [cleric, level6, conjuration]
+tags: [cleric, level7, conjuration]
 ---
 
-**6th-level conjuration**
+**7th-level conjuration**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 minute
 
 **Range**: 5 feet
 
