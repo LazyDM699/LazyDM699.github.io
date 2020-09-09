@@ -3,7 +3,7 @@ layout: post
 title:  "Sanctuary"
 date:   2014-08-24
 sources: [PHB.272, SRD.176]
-tags: [artificer, cleric, paladin (devotion), paladin (redemption), level1, abjuration]
+tags: [artificer, cleric, paladin, level1, abjuration]
 ---
 
 **1st-level abjuration**
@@ -12,7 +12,7 @@ tags: [artificer, cleric, paladin (devotion), paladin (redemption), level1, abju
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a small silver mirror)
+**Components**: V, S
 
 **Duration**: 1 minute
 
