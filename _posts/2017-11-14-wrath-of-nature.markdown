@@ -10,7 +10,7 @@ tags: [druid, ranger, level5, evocation]
 
 **Casting Time**: 1 action
 
-**Range**: 120 feet
+**Range**: self
 
 **Components**: V, S
 
@@ -24,4 +24,3 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 
 **Roots and Vines.** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become restrained until the spell ends. A restrained creature can use an action to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
 
-**Rocks.** As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.
