@@ -10,7 +10,7 @@ tags: [cleric (tempest), druid, ranger, sorcerer, wizard, level1, conjuration]
 
 **Casting Time**: 1 action
 
-**Range**: 120 feet
+**Range**: 20 feet
 
 **Components**: V, S
 

@@ -3,10 +3,10 @@ layout: post
 title:  "Mental Fortress"
 date:   2015-01-10
 sources: [PHB.259, SRD.164]
-tags:   [bard, wizard, level8, abjuration]
+tags:   [bard, wizard, level7, abjuration]
 ---
 
-**8th-level abjuration**
+**7th-level abjuration**
 
 **Casting Time**: 1 action
 
