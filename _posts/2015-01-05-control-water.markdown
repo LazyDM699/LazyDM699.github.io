@@ -3,14 +3,14 @@ layout: post
 title:  "Control Water"
 date:   2015-01-05
 sources: [PHB.227, SRD.130]
-tags: [cleric, druid, wizard, level7, transmutation]
+tags: [cleric, druid, wizard, level9, transmutation]
 ---
 
-**7th-level transmutation**
+**9th-level transmutation**
 
 **Casting Time**: 1 action
 
-**Range**: 300 feet
+**Range**: 150 feet
 
 **Components**: V, S, M (a drop of water and a pinch of dust)
 
@@ -18,7 +18,7 @@ tags: [cleric, druid, wizard, level7, transmutation]
 
 Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
 
-**Wave.** If you choose an area in a large body of water, you can instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
+**Wave.** If you choose an area in a large body of water, you can instead create a 50-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
 
 Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
 
