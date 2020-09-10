@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Holy Bolt"
+date: 2014-08-24
+sources: [PHB.241, SRD.144]
+tags: [artificer, sorcerer, wizard, cantrip, evocation]
+---
+
+**Evocation cantrip**
+
+**Casting Time**: 1 action
+
+**Range**: 120 feet
+
+**Components**: V, S
+
+**Duration**: Instantaneous
+
+You hurl a mote of radiant energy at a creature or object within range. Make a ranged spell attack against the target. You have Advantage on attacks made against undead targets. On a hit, the target takes 1d10 radiant damage. This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
