@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dragon’s Breath"
+title:  "Inferno"
 date: 2017-11-13
 sources: [Xanathar.154]
 tags: [sorcerer, wizard, level2, transmutation]
@@ -14,7 +14,9 @@ tags: [sorcerer, wizard, level2, transmutation]
 
 **Components**: V, S, M (a hot pepper)
 
-**Duration**: Concentration, up to 1 minute
+**Duration**: Concentration, up to 3 rounds
+
+Static
 
 You become able to spew magical energy from its mouth, provided it has one. Choose cold, fire, or lightning. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
 
