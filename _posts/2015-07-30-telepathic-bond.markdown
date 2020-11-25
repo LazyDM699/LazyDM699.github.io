@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rary’s Telepathic Bond"
+title: "Mind Link"
 date:  2015-07-30
 sources: [PHB.270]
 tags:  [wizard, level8, divination]
