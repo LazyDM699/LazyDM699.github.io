@@ -3,10 +3,10 @@ layout: post
 title:  "Wrath of Nature"
 date:   2017-11-14
 sources: [Xanathar.171]
-tags: [druid, ranger, level5, evocation]
+tags: [druid, level6, evocation]
 ---
 
-**5th-level evocation**
+**6th-level evocation**
 
 **Casting Time**: 1 action
 
@@ -14,9 +14,9 @@ tags: [druid, ranger, level5, evocation]
 
 **Components**: V, S
 
-**Duration**: Concentration, up to 1 minute
+**Duration**: Concentration, up to 10 minute
 
-You call out to the spirits of nature to rouse them against your enemies. Choose a point you can see within range. The spirits cause trees, rocks, and grasses in a 60-foot cube centered on that point to become animated until the spell ends.
+You call out to the spirits of nature to rouse them against your enemies. The spirits cause trees, and grasses in a 90-foot radius sphere centered on you to become animated until the spell ends.
 
 **Grasses and Undergrowth.** Any area of ground in the cube that is covered by grass or undergrowth is difficult terrain for your enemies.
 
