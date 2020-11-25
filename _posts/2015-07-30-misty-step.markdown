@@ -3,10 +3,10 @@ layout: post
 title: "Misty Step"
 date: 2015-07-30
 sources: [PHB.260, SRD.165]
-tags: [druid (coast), paladin (ancients), paladin (vengeance), sorcerer, warlock, wizard, level2, conjuration]
+tags: [druid (coast), paladin (ancients), paladin (vengeance), warlock, wizard, level1, conjuration]
 ---
 
-**2nd-level conjuration**
+**1st-level conjuration**
 
 **Casting Time**: 1 bonus action
 
