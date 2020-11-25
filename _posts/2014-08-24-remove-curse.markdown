@@ -3,10 +3,10 @@ layout: post
 title:  "Remove Curse"
 date:   2014-08-24
 sources: [PHB.271, SRD.174]
-tags: [cleric, paladin, warlock, wizard, level3, abjuration]
+tags: [cleric, paladin, warlock, wizard, level4, abjuration]
 ---
 
-**3rd-level abjuration**
+**4th-level abjuration**
 
 **Casting Time**: 1 action
 
